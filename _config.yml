@@ -4,6 +4,7 @@
 title: Peekaboo lab
 url: "https://proud-alligator.cloudvent.net"
 baseurl:
+remote_theme: chrisrhymes/bulma-clean-theme
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
