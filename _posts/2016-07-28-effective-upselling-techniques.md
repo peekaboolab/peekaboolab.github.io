@@ -12,7 +12,6 @@ Upselling is a sales technique whereby a seller induces the customer to purchase
 {% highlight python linenos %}
 def foo(test):
   print('foo')
-
 {% endhighlight %}
 
 In practice, large businesses usually combine upselling and cross-selling to maximize profit. In doing so, an organization must ensure that its relationship with the client is not disrupted.
