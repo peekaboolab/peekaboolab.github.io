@@ -14,7 +14,19 @@ def foo(test):
   print('foo')
 {% endhighlight %}
 
+
+
 In practice, large businesses usually combine upselling and cross-selling to maximize profit. In doing so, an organization must ensure that its relationship with the client is not disrupted.
+
+```javascript
+function sayHello(name) {
+  if (!name) {
+    console.log('Hello World');
+  } else {
+    console.log(`Hello ${name}`);
+  }
+}
+```
 
 ![Fair](https://source.unsplash.com/random/1500x1146)
 
