@@ -21,6 +21,10 @@ social:
   links:
     - https://github.com/CloudCannon/hydra-jekyll-template
 
+markdown: kramdown
+highlighter: rouge
+    input: GFM
+
 # -----
 # Build
 
